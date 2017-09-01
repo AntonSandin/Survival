@@ -1,4 +1,5 @@
 # Survival Game V.0
+![Image of Survial](http://i.imgur.com/stY6pZG.png)
 ---
 # Klart 
 * Uppdaterade grafiken
