@@ -1,4 +1,5 @@
 # Survival Game V.0
+Survival Game by Anton Sandin
 ![Image of Survial](http://i.imgur.com/stY6pZG.png)
 ---
 # Senast Uppdaterat:
