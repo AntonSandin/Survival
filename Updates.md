@@ -9,6 +9,7 @@ Survival Game by Anton Sandin
 * Förbättrade ljus, blur och grain på Main Camera.
 * Addade Mesh Collider på alla objekt så spelaren inte faller genom världen och så inte spelaren kan gå genom objekt som träd, stenar med mera.
 * Addade Liv, Stamina, Hunger, Törst, Kyla paneler med funktionallitet.
+* Addade Startmeny med New Game & Exit Game.
 ---
 # Kommande Uppdateringar:
 * Fallade träd animationer efter x antal hugg.
