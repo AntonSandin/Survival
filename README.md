@@ -1,2 +1,2 @@
-# Survival
-Only for personal use
+# Nebulosa
+2D Sandbox Platformer
